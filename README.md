@@ -1,2 +1,3 @@
 # PreReqChecker
-# Test knowledge of Graphs by creating a pre-requesite checker; 
+
+Test knowledge of Graphs by creating a pre-requesite checker; 
